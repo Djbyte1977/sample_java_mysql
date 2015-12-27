@@ -6,7 +6,7 @@ import java.sql.ResultSet;
 
 public class App {
   final String databaseURL = "jdbc:mysql://localhost/";
-  final static String user = "username";
+  final static String user = "root";
   final static String password = "password";
 
   Connection connection;
